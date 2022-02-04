@@ -1,0 +1,19 @@
+wrong class name. 
+myQueue => MyQueue
+
+
+javascript class constructor:
+
+MyQueue() {} 
+=>
+constructor() {}
+
+
+javascript array 
+array.size() => array.length() => array.length
+
+
+javascript class call method inside class.
+swap(this.stack1, this.stack2)
+=>
+this.swap(this.stack1, this.stack2)
